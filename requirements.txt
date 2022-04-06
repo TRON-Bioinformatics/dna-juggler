@@ -1,1 +1,3 @@
 biopython==1.76
+pybiomart==0.2.0
+pandas==1.1.5

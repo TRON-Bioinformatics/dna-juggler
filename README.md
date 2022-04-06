@@ -6,6 +6,8 @@ The DNA juggler provides a quick way of translating a DNA sequence into an amino
 Given a DNA sequence it returns the translated amino acid sequence.
 Additionally it returns the reversed and complemented DNA sequence, which is handy for genes in the negative strand.
 
+If you don't have the sequence you can provide an Ensembl transcript identifier and the coding sequence will be retrieved from Biomart.
+
 First click the binder buttom above. After the environment is initialized you should see an interactive Jupyter notebook as in the screenshot below:
 
 ![](images/screenshot_1.png)
