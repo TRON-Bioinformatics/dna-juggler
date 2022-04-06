@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tron-bioinformatics/dna-juggler/HEAD?labpath=dna_juggler.ipynb)
 
-The DNA juggler provides a quick way of translating a DNA sequence into an amino acid sequence using the Biopython library (Cock et al., 2009). 
+The DNA juggler provides a quick way of translating a DNA sequence into an amino acid sequence using the Biopython library (Cock et al., 2009) inside a convenient Jupyter notebook graciously provided by mybinder.org.
 Given a DNA sequence it returns the translated amino acid sequence.
 Additionally it returns the reversed and complemented DNA sequence, which is handy for genes in the negative strand.
 
